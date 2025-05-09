@@ -30,7 +30,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@chakra-ui/react": "^2.4.1",
+    "@chakra-ui/react": "^2.9.0",
     "@contentful/f36-icons": "^4.23.2",
     "@contentful/f36-tokens": "^4.0.1",
     "@contentful/live-preview": "^2.11.1",
@@ -46,7 +46,7 @@
     "next": "13.0.5",
     "next-absolute-url": "^1.2.2",
     "next-compose-plugins": "^2.2.1",
-    "next-i18next": "^12.1.0",
+    "next-i18next": "^13.0.0",
     "next-pwa": "^5.6.0",
     "next-seo": "^5.14.1",
     "next-sitemap": "^3.1.32",
